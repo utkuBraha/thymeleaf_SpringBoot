@@ -1,1 +1,1 @@
-# thymeleaf_SpringBoot
+# Thymeleaf in Spring Boot.
